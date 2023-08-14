@@ -49,4 +49,5 @@ int main() {
             printf( "%d %d %d", Input3, Input2, Input1 );
         }
     }
+    return 0;
 }
